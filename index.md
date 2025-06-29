@@ -1,6 +1,7 @@
 ---
 title: Koti
 layout: home
+nav_order: 1
 ---
 
 # Sinulla on oikeus yksityisyyteen!
