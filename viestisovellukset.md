@@ -3,6 +3,7 @@ title: Viestisovellukset
 layout: home
 nav_order: 2
 ---
+
 # Viestisovellukset
 Monet suositut viestisovellukset, kuten WhatsApp, Messenger ja Snapchat, keräävät käyttäjätietoja ja voivat jakaa niitä kolmansille osapuolille, mukaan lukien mainostajat tai viranomaiset. Onneksi on olemassa turvallisia ja yksityisyyttä kunnioittavia vaihtoehtoja, jotka eivät seuraa käyttäjiään tai myy tietoja eteenpäin.
 

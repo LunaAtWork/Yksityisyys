@@ -24,3 +24,6 @@ Kenelle tahansa, joka haluaa:
  - Käyttää digitaalisia palveluita ilman jatkuvaa valvontaa
 
 Sinun ei tarvitse olla asiantuntija. Riittää, että haluat parempaa.
+
+---
+**Siirry seuraavaksi** **[viestisovelluksiin](https://yksityisyys.fi/viestisovellukset.html)**

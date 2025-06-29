@@ -5,3 +5,6 @@ language: fi
 
 url: https://yksityisyys.fi
 baseurl: ""
+
+plugins:
+  - jekyll-sitemap
