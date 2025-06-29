@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Koti
 layout: home
 ---
 
