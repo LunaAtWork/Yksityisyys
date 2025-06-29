@@ -1,5 +1,5 @@
 ---
-title: Viestintäsovellukset
+title: Viestisovellukset
 layout: home
 nav_order: 2
 ---
