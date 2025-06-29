@@ -3,6 +3,8 @@ description: Yksityisyys on ihmisoikeus.
 theme: just-the-docs
 language: fi
 
+color_scheme: dark
+
 url: https://yksityisyys.fi
 baseurl: ""
 
