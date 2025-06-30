@@ -11,11 +11,11 @@ Yksityisyyttä kunnioittavat vaihtoehdot ovat olemassa, ja niiden käyttäminen 
 Tämä sivusto esittelee **turvallisia, yksityisyyttä kunnioittavia sovelluksia ja palveluita,** jotka voit ottaa käyttöön ilman teknistä osaamista.
 
 ## Turvalliset vaihtoehdot, joihin voit siirtyä jo tänään:
- - **[Viestisovellukset](https://yksityisyys.fi/viestisovellukset.html)** --- suojattua viestintää ilman seurantaa
- - **[Selaimet ja hakukoneet](https://yksityisyys.fi/selaimet-ja-hakukoneet.html)** --- yksityinen tapa selata ja hakea
- - **[Sovellukset ja käyttöjärjestelmät](https://yksityisyys.fi/sovellukset-ja-kayttojarjestelmat.html)** --- avoin lähdekoodi, ei mainosseurantaa
- - **[Pilvipalvelut ja tiedostojen jako](https://yksityisyys.fi/pilvipalvelut-ja-tiedostojen-jako.html)** --- yksityisyyttä myös kuvien varmuuskopioinnissa
- - **[Yhteisö ja tuki](https://yksityisyys.fi/yhteiso-ja-tuki.html)** --- et ole yksin: opi ja jaa muiden kanssa
+ - **[Viestisovellukset]** --- suojattua viestintää ilman seurantaa
+ - **[Selaimet ja hakukoneet]** --- yksityinen tapa selata ja hakea
+ - **[Sovellukset ja käyttöjärjestelmät]** --- avoin lähdekoodi, ei mainosseurantaa
+ - **[Pilvipalvelut ja tiedostojen jako]** --- yksityisyyttä myös kuvien varmuuskopioinnissa
+ - **[Yhteisö ja tuki]** --- et ole yksin: opi ja jaa muiden kanssa
 
 ## Kenelle tämä on tarkoitettu?
 Kenelle tahansa, joka haluaa: 
@@ -26,4 +26,12 @@ Kenelle tahansa, joka haluaa:
 Sinun ei tarvitse olla asiantuntija. Riittää, että haluat parempaa.
 
 ---
-**Siirry seuraavaksi** **[viestisovelluksiin](https://yksityisyys.fi/viestisovellukset.html)**
+**Siirry seuraavaksi** **[viestisovelluksiin]**
+
+
+[Viestisovellukset]: https://yksityisyys.fi/viestisovellukset.html
+[Selaimet ja hakukoneet]: https://yksityisyys.fi/selaimet-ja-hakukoneet.html
+[Sovellukset ja käyttöjärjestelmät]: https://yksityisyys.fi/sovellukset-ja-kayttojarjestelmat.html
+[Pilvipalvelut ja tiedostojen jako]: https://yksityisyys.fi/pilvipalvelut-ja-tiedostojen-jako.html
+[Yhteisö ja tuki]: https://yksityisyys.fi/yhteiso-ja-tuki.html
+[viestisovelluksiin]: https://yksityisyys.fi/viestisovellukset.html

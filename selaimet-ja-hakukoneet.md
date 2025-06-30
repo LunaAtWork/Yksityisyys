@@ -19,7 +19,7 @@ Isoin osa selaimista ja hakukoneista seuraavat käyttäjiään, tällä sivulla 
 
 Mullvad selain on todennäköisesti turvallisin selain jokapäiväiseen käyttöön.
 
-**[Lataa Mullvad selain täältä!](https://mullvad.net/fi/download/browser)**
+**[Lataa Mullvad selain täältä!]**
 
 ---
 ## Librewolf --- Helposti toiseksi paras selain
@@ -32,7 +32,7 @@ Mullvad selain on todennäköisesti turvallisin selain jokapäiväiseen käyttö
 
 Librewolf on Firefox selaimesta muokattu versio turvallisuutta ja yksityisyyttä varten.
 
-**[Lataa Librewolf täältä!](https://librewolf.net/installation/)**
+**[Lataa Librewolf täältä!]**
 
 ---
 ## Brave --- Helppokäyttöinen selain jokaiselle
@@ -45,7 +45,7 @@ Librewolf on Firefox selaimesta muokattu versio turvallisuutta ja yksityisyyttä
 
 Brave on helppokäyttöinen ja turvallinen sekä yksityinen selain jokaiselle, jopa mummollesi!
 
-**[Lataa Brave täältä!](https://brave.com/fi/download/)**
+**[Lataa Brave täältä!]**
 
 ---
 ## Mainitsemisen arvoista:
@@ -57,14 +57,22 @@ Tor selain on melkein aina yksityisin ja turvallisin selain valinta, paitsi jos 
 
  - **Mainokset ja seuranta:** Ei mainoksia, ei seurantaa
 
-**[Ota Startpage käyttöön täältä!](https://www.startpage.com/)**
+**[Ota Startpage käyttöön täältä!]**
 
 ---
 ## DuckDuckGo --- Kuin Google mutta parempi
 
  - **Mainokset ja seuranta:** Joitain mainoksia, ei seurantaa
 
-**[Ota DuckDuckGo käyttöön täältä!](https://duckduckgo.com/)**
+**[Ota DuckDuckGo käyttöön täältä!]**
 
 ---
-**Siirry seuraavaksi** **[sovelluksiin ja käyttöjärjestelmiin](https://yksityisyys.fi/sovellukset-ja-kayttojarjestelmat.html)**
+**Siirry seuraavaksi [sovelluksiin ja käyttöjärjestelmiin]**
+
+
+[sovelluksiin ja käyttöjärjestelmiin]: https://yksityisyys.fi/sovellukset-ja-kayttojarjestelmat.html
+[Ota DuckDuckGo käyttöön täältä!]: https://duckduckgo.com/
+[Ota Startpage käyttöön täältä!]: https://www.startpage.com/
+[Lataa Brave täältä!]: https://brave.com/fi/download/
+[Lataa Librewolf täältä!]: https://librewolf.net/installation/
+[Lataa Mullvad selain täältä!]: https://mullvad.net/fi/download/browser

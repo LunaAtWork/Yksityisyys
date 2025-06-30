@@ -16,7 +16,7 @@ Tältä sivulta löydät suositeltuja viestisovelluksia, jotka keskittyvät yksi
  - **Puhelinnumero tarvitaan:** Kyllä (halutessaan voi käyttää vuokrattavaa puhelinnumeroa)
  - **Mainokset tai seuranta:** Ei koskaan
 
-[Tästä Signalin ohjeisiin](https://yksityisyys.fi/signal.html)
+**[Tästä Signalin ohjeisiin]**
 
 ---
 ## Element (Matrix) --- Helppo vaihtoehto Signaliin
@@ -27,7 +27,7 @@ Tältä sivulta löydät suositeltuja viestisovelluksia, jotka keskittyvät yksi
  - **Mainokset tai seuranta:** Ei
 
 **Element** toimii Matrix-protokollalla, joka mahdollistaa hajautetun viestinnän. Sovellus sopii erityisesti ryhmille, tiimeille ja yhteisöille, jotka haluavat hallita omaa dataansa.
-[Tästä Elementin (Matrixin) käyttöohjeisiin](https://yksityisyys.fi/matrix.html)
+**[Tästä Elementin (Matrixin) käyttöohjeisiin]**
 
 ---
 ## Mainitsemisen arvoista:
@@ -44,4 +44,9 @@ Valinta riippuu käyttötarpeistasi sekä yksityisyyden että turvallisuuden hal
 Kumpi tahansa näistä on parempi vaihtoehto kuin kaupalliset sovellukset, jotka rakentuvat datankeruun varaan.
 
 ---
-**Siirry seuraavaksi** **[selaimiin ja hakukoneisiin](https://yksityisyys.fi/selaimet-ja-hakukoneet.html)**
+**Siirry seuraavaksi [selaimiin ja hakukoneisiin]**
+
+
+[Tästä Signalin ohjeisiin]: https://yksityisyys.fi/signal.html
+[Tästä Elementin (Matrixin) käyttöohjeisiin]: https://yksityisyys.fi/matrix.html
+[selaimiin ja hakukoneisiin]: https://yksityisyys.fi/selaimet-ja-hakukoneet.html
