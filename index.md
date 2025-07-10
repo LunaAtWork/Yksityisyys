@@ -14,7 +14,7 @@ Tämä sivusto esittelee **turvallisia, yksityisyyttä kunnioittavia sovelluksia
  - **[Viestisovellukset]** --- suojattua viestintää ilman seurantaa
  - **[Selaimet ja hakukoneet]** --- yksityinen tapa selata ja hakea
  - **[Käyttöjärjestelmät]** --- avoin lähdekoodi, ei seurantaa
- - **[Pilvipalvelut ja tiedostojen jako]** --- yksityisyyttä myös kuvien varmuuskopioinnissa
+ - **[Salaus]** --- suojattu viestintä kaikilla alustoilla
  - **[Yhteisö ja tuki]** --- et ole yksin: opi ja jaa muiden kanssa
 
 ## Kenelle tämä on tarkoitettu?
@@ -26,12 +26,12 @@ Kenelle tahansa, joka haluaa:
 Sinun ei tarvitse olla asiantuntija. Riittää, että haluat parempaa.
 
 ---
-**Siirry seuraavaksi** **[viestisovelluksiin]**
+**Siirry seuraavaksi [viestisovelluksiin]**
 
 
 [Viestisovellukset]: https://yksityisyys.fi/viestisovellukset.html
 [Selaimet ja hakukoneet]: https://yksityisyys.fi/selaimet-ja-hakukoneet.html
 [Käyttöjärjestelmät]: https://yksityisyys.fi/kayttojarjestelmat.html
-[Pilvipalvelut ja tiedostojen jako]: https://yksityisyys.fi/pilvipalvelut-ja-tiedostojen-jako.html
+[Salaus]: https://yksityisyys.fi/salaus.html
 [Yhteisö ja tuki]: https://yksityisyys.fi/yhteiso-ja-tuki.html
 [viestisovelluksiin]: https://yksityisyys.fi/viestisovellukset.html

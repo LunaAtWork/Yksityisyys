@@ -74,7 +74,7 @@ Täältä löydät monia käyttöjärjestelmiä puhelimille ja tietokoneille.
 **[Siirry tästä QubesOS:n ohjeisiin!]**
 
 ---
-**Siirry seuraavaksi [pilvipalveluihin ja tiedostojen jakoon]**
+**Siirry seuraavaksi [salaukseen]**
 
 
 [Tästä GrapheneOS:n ohjeisiin!]: https://grapheneos.org/install/web
@@ -82,4 +82,4 @@ Täältä löydät monia käyttöjärjestelmiä puhelimille ja tietokoneille.
 [Tästä LineageOS:n ohjeisiin!]: https://wiki.lineageos.org/devices/
 [Siirry tästä Tails:in ohjeisiin!]: https://tails.net/install/index.en.html
 [Siirry tästä QubesOS:n ohjeisiin!]: https://www.qubes-os.org/downloads/
-[pilvipalveluihin ja tiedostojen jakoon]: https://yksityisyys.fi/pilvipalvelut-ja-tiedostojen-jako.html
+[salaukseen]: https://yksityisyys.fi/salaus.html
