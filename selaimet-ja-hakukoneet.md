@@ -67,10 +67,10 @@ Tor selain on melkein aina yksityisin ja turvallisin selain valinta, paitsi jos 
 **[Ota DuckDuckGo käyttöön täältä!]**
 
 ---
-**Siirry seuraavaksi [sovelluksiin ja käyttöjärjestelmiin]**
+**Siirry seuraavaksi [käyttöjärjestelmiin]**
 
 
-[sovelluksiin ja käyttöjärjestelmiin]: https://yksityisyys.fi/sovellukset-ja-kayttojarjestelmat.html
+[käyttöjärjestelmiin]: https://yksityisyys.fi/kayttojarjestelmat.html
 [Ota DuckDuckGo käyttöön täältä!]: https://duckduckgo.com/
 [Ota Startpage käyttöön täältä!]: https://www.startpage.com/
 [Lataa Brave täältä!]: https://brave.com/fi/download/

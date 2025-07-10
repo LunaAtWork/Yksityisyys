@@ -13,7 +13,7 @@ Tämä sivusto esittelee **turvallisia, yksityisyyttä kunnioittavia sovelluksia
 ## Turvalliset vaihtoehdot, joihin voit siirtyä jo tänään:
  - **[Viestisovellukset]** --- suojattua viestintää ilman seurantaa
  - **[Selaimet ja hakukoneet]** --- yksityinen tapa selata ja hakea
- - **[Sovellukset ja käyttöjärjestelmät]** --- avoin lähdekoodi, ei mainosseurantaa
+ - **[Käyttöjärjestelmät]** --- avoin lähdekoodi, ei seurantaa
  - **[Pilvipalvelut ja tiedostojen jako]** --- yksityisyyttä myös kuvien varmuuskopioinnissa
  - **[Yhteisö ja tuki]** --- et ole yksin: opi ja jaa muiden kanssa
 
@@ -31,7 +31,7 @@ Sinun ei tarvitse olla asiantuntija. Riittää, että haluat parempaa.
 
 [Viestisovellukset]: https://yksityisyys.fi/viestisovellukset.html
 [Selaimet ja hakukoneet]: https://yksityisyys.fi/selaimet-ja-hakukoneet.html
-[Sovellukset ja käyttöjärjestelmät]: https://yksityisyys.fi/sovellukset-ja-kayttojarjestelmat.html
+[Käyttöjärjestelmät]: https://yksityisyys.fi/kayttojarjestelmat.html
 [Pilvipalvelut ja tiedostojen jako]: https://yksityisyys.fi/pilvipalvelut-ja-tiedostojen-jako.html
 [Yhteisö ja tuki]: https://yksityisyys.fi/yhteiso-ja-tuki.html
 [viestisovelluksiin]: https://yksityisyys.fi/viestisovellukset.html
