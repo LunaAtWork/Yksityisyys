@@ -47,10 +47,39 @@ Täältä löydät monia käyttöjärjestelmiä puhelimille ja tietokoneille.
 **[Tästä LineageOS:n ohjeisiin!]**
 
 ---
+# Linux käyttöjärjestelmät
+## Tails --- Kannettava käyttöjärjestelmä
+
+ - **Toimintaperiaate:** Live-USB-käyttöjärjestelmä, joka ei jätä jälkiä koneeseen
+ - **Yksityisyys:** Kaikki verkkoliikenne kulkee Tor-verkon kautta automaattisesti
+ - **Muistin käyttö:** Käyttää ainoastaan RAM-muistia – sammuttaminen tyhjentää kaiken
+ - **Tallennus:** Ei tallenna tiedostoja pysyvästi ilman erillistä salattua "Persistence"-asetusta
+ - **Anonyymiteetti:** Suunniteltu käytettäväksi anonyymisti missä tahansa tietokoneessa
+ - **Esiasennettu ohjelmisto:** Sisältää turvalliset sovellukset kuten Tor Selain, KeePassXC, OnionShare ja Kleopatra
+ - **Käyttötarkoitus:** Aktivistit, journalistit, ilmiantajat – käyttäjät jotka tarvitsevat korkean tason yksityisyyttä
+
+**[Siirry tästä Tails:in ohjeisiin!]**
+
+---
+## QubesOS --- Kohtuullisen turvallinen käyttöjärjestelmä
+
+ - **Toimintaperiaate:** Eristää eri toiminnot virtuaalikoneisiin (“qubes”) suojaten niitä toisiltaan
+ - **Yksityisyys:** Sovellukset ja tiedot eroteltu turvallisuusalueisiin, esim. pankki, työ ja henkilökohtainen
+ - **Muistin käyttö:** Jokainen "qube" toimii omassa eristetyssä tilassaan, joka voidaan sulkea milloin tahansa
+ - **Tallennus:** Jokaisella qubellä on oma tiedostojärjestelmä, pysyvä tai tilapäinen käyttäjän asetusten mukaan
+ - **Anonyymiteetti:** Tukee Whonix-qubea Tor-verkkoa varten täysin eristettynä muista qubeista
+ - **Esiasennettu ohjelmisto:** Sisältää työpöytäsovelluksia kuten Firefox, Thunderbird ja tiedostoselaimet erillään
+ - **Käyttötarkoitus:** Kehittyneille käyttäjille, jotka tarvitsevat maksimaalista suojaa ja lokeroitua ympäristöä
+
+**[Siirry tästä QubesOS:n ohjeisiin!]**
+
+---
 **Siirry seuraavaksi [pilvipalveluihin ja tiedostojen jakoon]**
 
 
 [Tästä GrapheneOS:n ohjeisiin!]: https://grapheneos.org/install/web
 [Tästä CalyxOS:n ohjeisiin!]: https://calyxos.org/install/
 [Tästä LineageOS:n ohjeisiin!]: https://wiki.lineageos.org/devices/
+[Siirry tästä Tails:in ohjeisiin!]: https://tails.net/install/index.en.html
+[Siirry tästä QubesOS:n ohjeisiin!]: https://www.qubes-os.org/downloads/
 [pilvipalveluihin ja tiedostojen jakoon]: https://yksityisyys.fi/pilvipalvelut-ja-tiedostojen-jako.html
